@@ -1,11 +1,11 @@
  let todo_list=[
   { 
     item:'buy milk',
-    duedate:'25/5/2001'
+    duedate:'23/1/2024'
   },
   { 
     item:'go to college',
-    duedate:'20/8/2000'
+    duedate:'23/1/2024'
   }
 ];
  DisplayItems();
