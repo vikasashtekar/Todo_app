@@ -4,7 +4,7 @@
     duedate:'25/5/2001'
   },
   { 
-    item:'go to hell',
+    item:'go to college',
     duedate:'20/8/2000'
   }
 ];
